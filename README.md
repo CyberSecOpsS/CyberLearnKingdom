@@ -39,3 +39,9 @@ Sistemdeki verileri saklayan ve bu verileri istek geldiğinde istemciye ulaştı
 
 Verinin kullanıldığı tablet, telefon, bilgisayar ve yazıcı gibi aygıtlardır.
 
+#### ROUTER NEDİR ?
+
+IP paketlerini bir cihazdan başkasına aktarır, ağ katmanını kullanırlar.
+
+#### FİREWALL NEDİR ? 
+ Firewall kendisine verilen kurallar dahilinde üzerine gelen paketlerin geçmesine izin veren, engelleyen, yazılımdır.
