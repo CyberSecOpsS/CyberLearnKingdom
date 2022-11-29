@@ -9,3 +9,7 @@ Kolay anlatım 😎
 
 
 # Temel Network
+
+Temel Network Siber Güvenliğin olmazsa olmazıdır
+
+Üstelik temel Network kolay öğrenilen bir konudur
