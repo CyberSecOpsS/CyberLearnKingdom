@@ -34,3 +34,8 @@ hostlardır. Internet Explorer gibi web tarayıcıları istemci yazılımlarına
 #### SUNUCU NEDİR ?
 
 Sistemdeki verileri saklayan ve bu verileri istek geldiğinde istemciye ulaştıran yüksek performansa sahip bilgisayarın oluşturduğu yapıdır.
+
+#### UÇ CİHAZ NEDİR ?
+
+Verinin kullanıldığı tablet, telefon, bilgisayar ve yazıcı gibi aygıtlardır.
+
