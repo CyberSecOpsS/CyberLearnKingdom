@@ -13,3 +13,7 @@ Kolay anlatım 😎
 Temel Network Siber Güvenliğin olmazsa olmazıdır
 
 Üstelik temel Network kolay öğrenilen bir konudur
+
+O zaman ilk derse geçelim 👇
+
+Ağ nedir ?
