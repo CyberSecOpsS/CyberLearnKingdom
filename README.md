@@ -62,10 +62,20 @@ OSI modeli (Open System Interconnection) yedi katmandaki protokolleri göstermek
 + Data link
 + Physical
 
-#### PHYSİCAL KATMANI
+#### OSI PHYSİCAL KATMANI
 
 Physical (Fiziksel Katman) :
 
 ❗️Elektrik bağlantısı, ışık etkisi, radyo vb. sinyallerden sorumludur.
 
 ❗️Tekrarlayıcı cihazlar, kablolar, ethernet bu katman üzerinde çalışır
+
+#### OSI DATA LİNK KATMANI
+
+Data link (Veri Katmanı) :
+
+❗️Veri bağlantı katmanları fiziksel katmana erişim ve kullanım ile ilgili kurallar belirler.
+
+❗️Bu katmanda Ethernet ya da Token Ring olarak bilinen erişim yöntemleri çalışır ve bu erişim yöntemleri verileri kendi protokollerine uygun olarak işleyerek iletirler
+
+❗️Veri bağlantı katmanlarının büyük bir bölüm ağ kartı içinde gerçekleşir.
