@@ -17,7 +17,7 @@ Temel Network Siber Güvenliğin olmazsa olmazıdır
 
 O zaman ilk derse geçelim 👇
 
-###AĞ NEDİR ? 
+### AĞ NEDİR ? 
 
 Ağ, temel olarak veri paylaşımı amacıyla çeşitli cihazları birbirine bağlayan teknolojidir.
 örnek olarak internet. 
