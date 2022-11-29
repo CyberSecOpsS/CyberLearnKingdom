@@ -5,13 +5,11 @@ Cyber Learn Kingdom ile Siber Guvenliği öğren
 
 Temel,Orta,Üst seviye 🚀
 
-Kolay anlatım 😎
+Ayrıntılı anlatım 😎
 
 Türkçe 🇹🇷
 
 # Temel Network
-
-(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Temel Network Siber Güvenliğin olmazsa olmazıdır
 
@@ -19,4 +17,7 @@ Temel Network Siber Güvenliğin olmazsa olmazıdır
 
 O zaman ilk derse geçelim 👇
 
-Ağ nedir ?
+[Ağ nedir ?] 
+
+Ağ, temel olarak veri paylaşımı amacıyla çeşitli cihazları birbirine bağlayan teknolojidir.
+örnek olarak internet. 
