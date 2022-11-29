@@ -30,3 +30,7 @@ hostlardır. Internet Explorer gibi web tarayıcıları istemci yazılımlarına
 #### İP ADRESİ NEDİR ?
 
 İnternete bağlı cihazların kimlik numarasıdır. İnternete bağlı olan her cihaz; bilgisayar, telefon, tablet bir IP'ye sahiptir. Böylece, ağ üzerinde birbirlerinden ayrılabilirler ve birbirleri ile IP aracılığıyla iletişim kurabilirler.
+
+#### SUNUCU NEDİR ?
+
+Sistemdeki verileri saklayan ve bu verileri istek geldiğinde istemciye ulaştıran yüksek performansa sahip bilgisayarın oluşturduğu yapıdır.
