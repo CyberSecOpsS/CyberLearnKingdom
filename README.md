@@ -45,3 +45,7 @@ IP paketlerini bir cihazdan başkasına aktarır, ağ katmanını kullanırlar.
 
 #### FİREWALL NEDİR ? 
  Firewall kendisine verilen kurallar dahilinde üzerine gelen paketlerin geçmesine izin veren, engelleyen, yazılımdır.
+
+#### PORT NEDİR ?
+
+Bilgisayar arası iletişimde, port, iletişimin uç noktasıdır. Yazılımsal açıdan olaya bakıldığında, port belli bir işleme ait olan mantıksal bir yapıdır. Bir port, bir aktarım katmanı protokolünden ve 16 bitlik "port numarasından" oluşur. Portların kullandığı en yaygın aktarım katmanı protokolleri TCP ve UDP'dir.
