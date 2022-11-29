@@ -54,10 +54,10 @@ Bilgisayar arası iletişimde, port, iletişimin uç noktasıdır. Yazılımsal 
 
 OSI modeli (Open System Interconnection) yedi katmandaki protokolleri göstermek için bir bilgisayar ağı çerçevesini oluşturur. Ağ oluşturma kurumlarındaki bir protokol, bir tür müzakere ve iki ağ kuruluşu arasında bir kuraldır. OSI modeli ISO (International Organization for Standardization) geliştirmiştir
 
-Application
-Presentation
-Session
-Transport
-Network
-Data link
-Physical
++ Application
++ Presentation
++ Session
++ Transport
++ Network
++ Data link
++ Physical
