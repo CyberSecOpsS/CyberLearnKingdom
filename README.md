@@ -10,6 +10,8 @@ Kolay anlatım 😎
 
 # Temel Network
 
+![alt text]("Logo Title Text 1")
+
 Temel Network Siber Güvenliğin olmazsa olmazıdır
 
 Üstelik temel Network kolay öğrenilen bir konudur
