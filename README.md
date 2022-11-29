@@ -61,3 +61,11 @@ OSI modeli (Open System Interconnection) yedi katmandaki protokolleri göstermek
 + Network
 + Data link
 + Physical
+
+#### PHYSİCAL KATMANI
+
+Physical (Fiziksel Katman) :
+
+❗️Elektrik bağlantısı, ışık etkisi, radyo vb. sinyallerden sorumludur.
+
+❗️Tekrarlayıcı cihazlar, kablolar, ethernet bu katman üzerinde çalışır
