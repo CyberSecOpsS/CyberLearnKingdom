@@ -26,3 +26,7 @@ Ağ, temel olarak veri paylaşımı amacıyla çeşitli cihazları birbirine ba�
 
 İstemciler, sunucudan alınan bilgileri istemelerini ve görüntüleyebilmelerini sağlayan yazılımla yüklü  
 hostlardır. Internet Explorer gibi web tarayıcıları istemci yazılımlarına örnektir.
+
+#### İP ADRESİ NEDİR ?
+
+İnternete bağlı cihazların kimlik numarasıdır. İnternete bağlı olan her cihaz; bilgisayar, telefon, tablet bir IP'ye sahiptir. Böylece, ağ üzerinde birbirlerinden ayrılabilirler ve birbirleri ile IP aracılığıyla iletişim kurabilirler.
