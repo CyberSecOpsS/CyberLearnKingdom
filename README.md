@@ -128,3 +128,7 @@ SPX, TCP, UDP gibi protokoller bu katmadan çalışır.
 #### TCP (Transmission Control Protocol) nedir? 
 
  bilgisayarlar arasındaki iletişimin kayıpsız olarak ve küçük paketler hâlinde gerçekleştirilmesine yarayan bir protokoldür. Aslında veriyi alırken ya da karşı tarafa gönderirken verinin bütünlüğünü sağlaması ve kimlik doğrulaması yapması TCP protokolünün en önemli özelliğidir.
+
+#### UDP “User Datagram Protocol Nedir ? 
+
+UDP’nin temel işlevi verilerin gönderimini bağlantı kurulmaksızın gerçekleştirmektir, Tcp'ye göre daha hızlıdır, giden veriyi eksiksiz şekilde gidip gitmemesini kontrol etmez
