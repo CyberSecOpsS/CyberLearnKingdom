@@ -117,8 +117,7 @@ SPX, TCP, UDP gibi protokoller bu katmadan çalışır.
 
 ❗️GIF, JPEG, ASCII vb. bu katmanda çalışır.
 
-#### 
-Application (Uygulama Katmanı) :
+#### Application (Uygulama Katmanı) :
 
 ❗️ posta ve diğer ağ yazılımı hizmetleri için uygulama hizmetinden sorumludur.
 
