@@ -151,3 +151,9 @@ En yaygın kullanılan port numaraları
 + 443  : MİCROSOFT DC (Active directory) 
 + 445 : MİCROSOFT SQL SERVER 
 + 3306 : MYSQL
+
+#### FTP ( FİLE TRANSFER PROTOCOL) NEDİR ?
+
+Dosya Transfer Protokolü olarak biliniyor. İsminden de anlaşılacağı üzere dosya transfer işlemi için kullanılan bir protokoldür. İnternete bağlı iki bilgisayar arasında dosya transferini sağlayan bir protokoldür.
+
+ftp://ftp.sitead
