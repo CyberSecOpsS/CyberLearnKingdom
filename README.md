@@ -79,3 +79,13 @@ Data link (Veri Katmanı) :
 ❗️Bu katmanda Ethernet ya da Token Ring olarak bilinen erişim yöntemleri çalışır ve bu erişim yöntemleri verileri kendi protokollerine uygun olarak işleyerek iletirler
 
 ❗️Veri bağlantı katmanlarının büyük bir bölüm ağ kartı içinde gerçekleşir.
+
+#### Network ( Ağ Katmanı) :
+
+❗️Bu katman sayesinde veri yönlendirici aracılığıyla yönlendirme sağlanması
+
+❗️Anahtarlama ve yönlendirme teknolojisi bu katmanda çalışır.
+
+❗️Veri paketini hedefe yönlendirilmesi ve iletilmesini sağlar.
+
+❗️Yönlendirici bu katmanda çalışır
