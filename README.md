@@ -132,3 +132,22 @@ SPX, TCP, UDP gibi protokoller bu katmadan çalışır.
 #### UDP “User Datagram Protocol Nedir ? 
 
 UDP’nin temel işlevi verilerin gönderimini bağlantı kurulmaksızın gerçekleştirmektir, Tcp'ye göre daha hızlıdır, giden veriyi eksiksiz şekilde gidip gitmemesini kontrol etmez
+
+### PORTLAR
+En yaygın kullanılan port numaraları 
+
++ 20-21 : FTP 
++ 22      : SSH 
++ 23      : TELNET 
++ 25      : SMTP 
++ 53      : DNS 
++ 67-68 : DHCP
++ 80      : HTTP
++ 88      : KERBEROS 
++ 110   : POP3
++ 137  : NETBİOS 
++ 140  : IMAP 
++ 161  : SNMP
++ 443  : MİCROSOFT DC (Active directory) 
++ 445 : MİCROSOFT SQL SERVER 
++ 3306 : MYSQL
