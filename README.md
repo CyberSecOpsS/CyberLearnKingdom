@@ -122,3 +122,9 @@ SPX, TCP, UDP gibi protokoller bu katmadan çalışır.
 ❗️ posta ve diğer ağ yazılımı hizmetleri için uygulama hizmetinden sorumludur.
 
 ❗️ FTP, HTTP, SMTP, Telnet gibi protokoller burada çalışır.
+
+#### SIRADAKİ KONU TCP/UDP
+
+#### TCP (Transmission Control Protocol) nedir? 
+
+ bilgisayarlar arasındaki iletişimin kayıpsız olarak ve küçük paketler hâlinde gerçekleştirilmesine yarayan bir protokoldür. Aslında veriyi alırken ya da karşı tarafa gönderirken verinin bütünlüğünü sağlaması ve kimlik doğrulaması yapması TCP protokolünün en önemli özelliğidir.
