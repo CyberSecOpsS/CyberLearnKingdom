@@ -9,6 +9,7 @@ Ayrıntılı anlatım 😎
 
 Türkçe 🇹🇷
 
+##### NOT : Yazılarda sorun yaşanmaması için translate'yi Türkçe yapınız aksi takdirde bazı kelime hataları olabilmekte ❗
 # Temel Network
 
 Temel Network Siber Güvenliğin olmazsa olmazıdır
