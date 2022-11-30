@@ -159,4 +159,6 @@ Dosya Transfer Protokolü olarak biliniyor. İsminden de anlaşılacağı üzere
 
 ftp://ftp.sitead
 
-#### Secure Shell olan SSH, kullanıcıların sunucularını internet üzerinden kontrol edebilmelerini sağlayan ve sunucular üzerinde çeşitli değişiklikler ve düzenlemeler yapabilme olanağı tanıyan bir uzaktan yönetim güvenlik protokolüdür
+#### SSH NEDİR ? 
+
+kullanıcıların sunucularını internet üzerinden kontrol edebilmelerini sağlayan ve sunucular üzerinde çeşitli değişiklikler ve düzenlemeler yapabilme olanağı tanıyan bir uzaktan yönetim güvenlik protokolüdür
