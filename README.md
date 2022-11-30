@@ -89,3 +89,37 @@ Data link (Veri Katmanı) :
 ❗️Veri paketini hedefe yönlendirilmesi ve iletilmesini sağlar.
 
 ❗️Yönlendirici bu katmanda çalışır
+
+#### Transport (Taşıma Katmanı) :
+
+❗️ Taşıma katmanı alt katmanlar (Transport Set) ve üst katmanlar (Application Set) arasında geçit görevi üstlenir.
+
+❗️ Bu katmanlarda kesim (segment) halinde hareket eder.
+
+❗️Verinin uçtan uca buluşmalarını sağlar, zamanında ulaşıp ulaşmadığını kontrol eder.
+SPX, TCP, UDP gibi protokoller bu katmadan çalışır.
+
+#### Session ( Oturum Katmanı) :
+
+❗️birden fazla bilgisayarla aynı ve iletişim içinde ne zaman, düzenli bilgisayarla konuşabilmeyi sağlar.
+
+❗️Oturum ve bağlantı koordinasyonu ile ilgilenir.
+
+❗️ Uygulamalar arasındaki bağlantıların kurulması, yönetimi ve sonlandırılmasından sorumludur.
+
+❗️ NetBIOS ve Sockets gibi protokoller farklı bilgisayarlarla aynı anda olan yönlendirmeleri yönetme imkanı sağlarlar.
+
+#### Presentation ( Sunum Katmanı) :
+
+ ❗️ Görevi gönderilecek olan verinin diğer bilgisayarı anlaşılacak şekilde çevrilmesidir.
+
+❗️Datayı Şifreleme ve şifre çözme bu katmadan gerçekleşir
+
+❗️GIF, JPEG, ASCII vb. bu katmanda çalışır.
+
+#### 
+Application (Uygulama Katmanı) :
+
+❗️ posta ve diğer ağ yazılımı hizmetleri için uygulama hizmetinden sorumludur.
+
+❗️ FTP, HTTP, SMTP, Telnet gibi protokoller burada çalışır.
