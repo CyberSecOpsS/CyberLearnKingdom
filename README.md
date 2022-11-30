@@ -158,3 +158,5 @@ En yaygın kullanılan port numaraları
 Dosya Transfer Protokolü olarak biliniyor. İsminden de anlaşılacağı üzere dosya transfer işlemi için kullanılan bir protokoldür. İnternete bağlı iki bilgisayar arasında dosya transferini sağlayan bir protokoldür.
 
 ftp://ftp.sitead
+
+#### Secure Shell olan SSH, kullanıcıların sunucularını internet üzerinden kontrol edebilmelerini sağlayan ve sunucular üzerinde çeşitli değişiklikler ve düzenlemeler yapabilme olanağı tanıyan bir uzaktan yönetim güvenlik protokolüdür
