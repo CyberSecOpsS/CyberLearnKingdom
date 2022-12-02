@@ -170,3 +170,7 @@ Internet ağı üzerindeki çok kullanıcılı bir makineye uzaktaki başka bir 
 #### SMTP NEDİR ?
 
 e-posta göndermek için sunucu ile istemci arasındaki iletişim şeklini belirleyen protokoldür.
+
+
+#### IDOR (Insecure direct object reference) NEDİR?
+bir saldırganın hedef web uygulamasında yetkisiz erişim elde etmesine ve eylemler gerçekleştirmesine olanak tanıyan bir web uygulama zafiyetidir.
