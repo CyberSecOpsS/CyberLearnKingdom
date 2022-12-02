@@ -174,3 +174,7 @@ e-posta göndermek için sunucu ile istemci arasındaki iletişim şeklini belir
 
 #### IDOR (Insecure direct object reference) NEDİR?
 bir saldırganın hedef web uygulamasında yetkisiz erişim elde etmesine ve eylemler gerçekleştirmesine olanak tanıyan bir web uygulama zafiyetidir.
+
+##### Örnek : Https://www.examplesiteshopping.com/Order/id=103
+
+Siz böyle bir web sitesinde sondaki id değerini değiştirdiğinizde mesela 103 yerine 200 yaptığınız da 200 id değerine sahip olan kullanıcının bilgilerini görüntüleyecek eğer zafiyet varsa
