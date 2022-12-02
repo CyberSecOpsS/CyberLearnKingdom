@@ -166,3 +166,7 @@ kullanıcıların sunucularını internet üzerinden kontrol edebilmelerini sağ
 #### TELNET NEDİR ?
 
 Internet ağı üzerindeki çok kullanıcılı bir makineye uzaktaki başka bir makineden bağlanmak için kullanılır 
+
+#### SMTP NEDİR ?
+
+e-posta göndermek için sunucu ile istemci arasındaki iletişim şeklini belirleyen protokoldür.
