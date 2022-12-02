@@ -162,3 +162,7 @@ ftp://ftp.sitead
 #### SSH NEDİR ? 
 
 kullanıcıların sunucularını internet üzerinden kontrol edebilmelerini sağlayan ve sunucular üzerinde çeşitli değişiklikler ve düzenlemeler yapabilme olanağı tanıyan bir uzaktan yönetim güvenlik protokolüdür
+
+#### TELNET NEDİR ?
+
+Internet ağı üzerindeki çok kullanıcılı bir makineye uzaktaki başka bir makineden bağlanmak için kullanılır 
